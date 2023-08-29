@@ -6,7 +6,4 @@ Demo UI module created to showcase how one could use either our integration with
 
 
 ## To use this repo
-
-1. Clone the new repo as normal to your development environment.
-2. `pip install -r requirements.txt` to make sure you have all the Python packages installed.
-3. Go to any app you can create in within Clarifai, select Modules on the left and "Create Module" button, then follow the steps.
+This was designed to integrate into/work with Clarifai's UI Modules. Sign up and create an account there, then go to any app you can create in within Clarifai, select Modules on the left and "Create Module" button, then follow the steps.
