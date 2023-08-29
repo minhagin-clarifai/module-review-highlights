@@ -1,2 +1,5 @@
 clarifai==9.6.0
 streamlit==1.23.1
+pandas==1.5.3
+clarifai-grpc==9.7.3
+langchain==0.0.271
